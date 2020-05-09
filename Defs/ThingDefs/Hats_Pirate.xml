@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <!--capn-->
-  <ThingDef ParentName="ApparelBase">
+  <ThingDef ParentName="HatBase">
     <defName>Apparello_wassupcap</defName>
     <label>Bicorne</label>
     <description>Awe inspiring hat. Much like a kings with crowns, Only captain with bicornes are acknowledged as real deal.</description>
@@ -44,7 +44,7 @@
       </options>
     </colorGenerator>
   </ThingDef>
-  <ThingDef ParentName="ApparelBase">
+  <ThingDef ParentName="HatBase">
     <defName>Apparello_wassupcaptwo</defName>
     <label>Captain's Tricorne</label>
     <description>Tricorne with captain's insignia.</description>
@@ -87,7 +87,7 @@
       </options>
     </colorGenerator>
   </ThingDef>
-  <ThingDef ParentName="ApparelBase">
+  <ThingDef ParentName="HatBase">
     <defName>Apparello_Fancybrim</defName>
     <label>duellist's hat</label>
     <description>Well decorated brimmed hat.</description>
@@ -132,7 +132,7 @@
       </options>
     </colorGenerator>
   </ThingDef>
-  <ThingDef ParentName="ApparelBase">
+  <ThingDef ParentName="HatBase">
     <defName>Apparello_basicbrim</defName>
     <label>Voodoo hat</label>
     <description>Hat filled with mystery, and sometimes bunnies, paychecks, oranges or various other loot.</description>
@@ -176,7 +176,7 @@
       </options>
     </colorGenerator>
   </ThingDef>
-  <ThingDef ParentName="ApparelBase">
+  <ThingDef ParentName="HatBase">
     <defName>Apparello_voodoolady</defName>
     <label>Voodoo headwrap</label>
     <description>Lump of decorated cloth.</description>
@@ -216,7 +216,7 @@
       </options>
     </colorGenerator>
   </ThingDef>
-  <ThingDef ParentName="ApparelBase">
+  <ThingDef ParentName="HatBase">
     <defName>Apparello_iratemoron</defName>
     <label>morion</label>
     <description>Very basic morion. Keeps your head safe from blows.. sometimes, if you're lucky.</description>
@@ -260,7 +260,7 @@
       </options>
     </colorGenerator>
   </ThingDef>
-  <ThingDef ParentName="ApparelBase">
+  <ThingDef ParentName="HatBase">
     <defName>Apparello_pieband</defName>
     <label>bandana</label>
     <description>piece of cloth, worn on head.</description>
@@ -299,7 +299,7 @@
       </options>
     </colorGenerator>
   </ThingDef>
-  <ThingDef ParentName="ApparelBase">
+  <ThingDef ParentName="HatBase">
     <defName>Apparello_piebandtwo</defName>
     <label>fancy bandana</label>
     <description>piece of cloth, worn on head.</description>

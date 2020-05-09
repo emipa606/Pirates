@@ -17,6 +17,9 @@
       <Mass>1</Mass>
     </statBases>
     <costStuffCount>55</costStuffCount>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
     <apparel>
       <bodyPartGroups>
         <li>Legs</li>
@@ -51,6 +54,9 @@
       <li>Leathery</li>
     </stuffCategories>
     <costStuffCount>60</costStuffCount>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
     <statBases>
       <WorkToMake>5000</WorkToMake>
       <Insulation_Cold>6</Insulation_Cold>

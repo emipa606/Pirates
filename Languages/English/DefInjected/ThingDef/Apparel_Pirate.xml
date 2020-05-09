@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Captain -->
+
+  <Apparello_CaptainCook.label>captain's jacket</Apparello_CaptainCook.label>
+  <Apparello_CaptainCook.description>Captain's uniform jacket. "Aweeeigh the anchor" says he, who wears apparel such as this. "Keelhaul all the landlubbers! have em scrub the starfish of me galleon!"</Apparello_CaptainCook.description>
+
+
+  <!-- Scurvydog -->
+
+  <Apparello_PirateSkull.label>buccaneer jacket</Apparello_PirateSkull.label>
+  <Apparello_PirateSkull.description>Seaworthy vest.</Apparello_PirateSkull.description>
+
+  <Apparello_Cuirasso.label>Cuirass</Apparello_Cuirasso.label>
+  <Apparello_Cuirasso.description>Ye olde metal cuirass.</Apparello_Cuirasso.description>
+
+
+</LanguageData>

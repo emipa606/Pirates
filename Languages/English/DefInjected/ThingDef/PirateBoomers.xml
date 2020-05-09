@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Blunderbuss_Buletto.label>Blunderbuss shrapnel</Blunderbuss_Buletto.label>
+
+  <Gunnar_Bluth.label>blunderbuss</Gunnar_Bluth.label>
+  <Gunnar_Bluth.description>Blackpowder powered tube.</Gunnar_Bluth.description>
+
+
+  <!-- Esquebus -->
+
+  <Bullet_Esquebus.label>Esquebus blast</Bullet_Esquebus.label>
+
+  <Gunnar_Esqubus.label>esquebus</Gunnar_Esqubus.label>
+  <Gunnar_Esqubus.description>Ancient design. Deadly, but short range.</Gunnar_Esqubus.description>
+
+
+  <!-- Arquebus -->
+
+  <Bulletto_Arquebus.label>arquebus slug</Bulletto_Arquebus.label>
+
+  <Gunnar_arquebus.label>arquebus</Gunnar_arquebus.label>
+  <Gunnar_arquebus.description>Ancient matchlock-action rifle. Good range, Good power, low rate of fire.</Gunnar_arquebus.description>
+
+  <Bulletto_handycan.label>handcannon slug</Bulletto_handycan.label>
+
+  <Gunnar_Handy.label>handcannon</Gunnar_Handy.label>
+  <Gunnar_Handy.description>Handcannon. It fires a five-round burst. Mighty good range, low power.</Gunnar_Handy.description>
+
+
+</LanguageData>

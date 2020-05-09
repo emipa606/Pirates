@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- capn -->
+
+  <Apparello_wassupcap.label>Bicorne</Apparello_wassupcap.label>
+  <Apparello_wassupcap.description>Awe inspiring hat. Much like a kings with crowns, Only captain with bicornes are acknowledged as real deal.</Apparello_wassupcap.description>
+
+  <Apparello_wassupcaptwo.label>Captain's Tricorne</Apparello_wassupcaptwo.label>
+  <Apparello_wassupcaptwo.description>Tricorne with captain's insignia.</Apparello_wassupcaptwo.description>
+
+  <Apparello_Fancybrim.label>duellist's hat</Apparello_Fancybrim.label>
+  <Apparello_Fancybrim.description>Well decorated brimmed hat.</Apparello_Fancybrim.description>
+
+  <Apparello_basicbrim.label>Voodoo hat</Apparello_basicbrim.label>
+  <Apparello_basicbrim.description>Hat filled with mystery, and sometimes bunnies, paychecks, oranges or various other loot.</Apparello_basicbrim.description>
+
+  <Apparello_voodoolady.label>Voodoo headwrap</Apparello_voodoolady.label>
+  <Apparello_voodoolady.description>Lump of decorated cloth.</Apparello_voodoolady.description>
+
+  <Apparello_iratemoron.label>morion</Apparello_iratemoron.label>
+  <Apparello_iratemoron.description>Very basic morion. Keeps your head safe from blows.. sometimes, if you're lucky.</Apparello_iratemoron.description>
+
+  <Apparello_pieband.label>bandana</Apparello_pieband.label>
+  <Apparello_pieband.description>piece of cloth, worn on head.</Apparello_pieband.description>
+
+  <Apparello_piebandtwo.label>fancy bandana</Apparello_piebandtwo.label>
+  <Apparello_piebandtwo.description>piece of cloth, worn on head.</Apparello_piebandtwo.description>
+
+
+</LanguageData>
