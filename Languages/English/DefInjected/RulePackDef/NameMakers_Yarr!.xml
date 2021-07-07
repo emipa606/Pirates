@@ -1,16 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <NamerPersonPierats.rulePack.rulesStrings.0>name->[guy][brush] [threep][wood]</NamerPersonPierats.rulePack.rulesStrings.0>
-  <NamerPersonPierats.rulePack.rulesStrings.1>name->[guy][brush] [piratesurname]</NamerPersonPierats.rulePack.rulesStrings.1>
-  <NamerPersonPierats.rulePack.rulesStrings.2>name->[piratename] [threep][wood]</NamerPersonPierats.rulePack.rulesStrings.2>
-  <NamerPersonPierats.rulePack.rulesStrings.3>name->[piratename] [piratesurname]</NamerPersonPierats.rulePack.rulesStrings.3>
-  <NamerPersonPierats.rulePack.rulesStrings.4>name->[piratename] [piratesurname]</NamerPersonPierats.rulePack.rulesStrings.4>
-  <NamerPersonPierats.rulePack.rulesStrings.5>name->[piratename] [piratesurname]</NamerPersonPierats.rulePack.rulesStrings.5>
-  <NamerPersonPierats.rulePack.rulesStrings.6>name->[piratename] [solonick] [piratesurname]</NamerPersonPierats.rulePack.rulesStrings.6>
-  <NamerPersonPierats.rulePack.rulesStrings.7>name->[piratename] [nickstart][nickend] [piratesurname]</NamerPersonPierats.rulePack.rulesStrings.7>
-  <NamerPersonPierats.rulePack.rulesStrings.8>name->[piratename] [nickstart][nickend] [piratesurname]</NamerPersonPierats.rulePack.rulesStrings.8>
-  <NamerPersonPierats.rulePack.rulesStrings.9>name->[piratename] [nickstart][nickend] [piratesurname]</NamerPersonPierats.rulePack.rulesStrings.9>
-
-
+  <NamerPersonPierats.rulePack.rulesStrings.0>name-&gt;[guy][brush] [threep][wood]</NamerPersonPierats.rulePack.rulesStrings.0>
+  <NamerPersonPierats.rulePack.rulesStrings.1>name-&gt;[guy][brush] [piratesurname]</NamerPersonPierats.rulePack.rulesStrings.1>
+  <NamerPersonPierats.rulePack.rulesStrings.2>name-&gt;[piratename] [threep][wood]</NamerPersonPierats.rulePack.rulesStrings.2>
+  <NamerPersonPierats.rulePack.rulesStrings.3>name-&gt;[piratename] [piratesurname]</NamerPersonPierats.rulePack.rulesStrings.3>
+  <NamerPersonPierats.rulePack.rulesStrings.4>name-&gt;[piratename] [piratesurname]</NamerPersonPierats.rulePack.rulesStrings.4>
+  <NamerPersonPierats.rulePack.rulesStrings.5>name-&gt;[piratename] [piratesurname]</NamerPersonPierats.rulePack.rulesStrings.5>
+  <NamerPersonPierats.rulePack.rulesStrings.6>name-&gt;[piratename] [solonick] [piratesurname]</NamerPersonPierats.rulePack.rulesStrings.6>
+  <NamerPersonPierats.rulePack.rulesStrings.7>name-&gt;[piratename] [nickstart][nickend] [piratesurname]</NamerPersonPierats.rulePack.rulesStrings.7>
+  <NamerPersonPierats.rulePack.rulesStrings.8>name-&gt;[piratename] [nickstart][nickend] [piratesurname]</NamerPersonPierats.rulePack.rulesStrings.8>
+  <NamerPersonPierats.rulePack.rulesStrings.9>name-&gt;[piratename] [nickstart][nickend] [piratesurname]</NamerPersonPierats.rulePack.rulesStrings.9>
 </LanguageData>

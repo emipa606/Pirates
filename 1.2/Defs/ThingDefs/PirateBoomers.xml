@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- ============================================================== -->
+  <ThingDef Name="BasePirateGun" ParentName="BaseGunWithQuality" Abstract="True">
+    <techLevel>Medieval</techLevel>
+    <weaponTags>
+      <li>PirateGun</li>
+    </weaponTags>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>Blunderbuss_Buletto</defName>
+    <label>Blunderbuss shrapnel</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <flyOverhead>false</flyOverhead>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>13</damageAmountBase>
+      <speed>55</speed>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BasePirateGun">
+    <defName>Gunnar_Bluth</defName>
+    <label>blunderbuss</label>
+    <description>Blackpowder powered tube.</description>
+    <graphicData>
+      <texPath>PirateClashers/Blunderbuss</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Interact_Shotgun</soundInteract>
+    <statBases>
+      <MarketValue>200</MarketValue>
+      <AccuracyTouch>0.91</AccuracyTouch>
+      <AccuracyShort>0.71</AccuracyShort>
+      <AccuracyMedium>0.50</AccuracyMedium>
+      <AccuracyLong>0.32</AccuracyLong>
+      <RangedWeapon_Cooldown>0.80</RangedWeapon_Cooldown>
+      <Mass>1.5</Mass>
+    </statBases>
+    <verbs>
+      <li>
+        <verbClass>Verb_Shoot</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <defaultProjectile>Blunderbuss_Buletto</defaultProjectile>
+        <warmupTime>0.8</warmupTime>
+        <range>24</range>
+        <soundCast>Shot_Shotgun</soundCast>
+        <soundCastTail>GunTail_Heavy</soundCastTail>
+        <muzzleFlashScale>9</muzzleFlashScale>
+      </li>
+    </verbs>
+  </ThingDef>
+  <!-- =============================Esquebus================================= -->
+  <ThingDef ParentName="BaseBullet">
+    <defName>Bullet_Esquebus</defName>
+    <label>Esquebus blast</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Shotgun</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>30</damageAmountBase>
+      <speed>55</speed>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BasePirateGun">
+    <defName>Gunnar_Esqubus</defName>
+    <label>esquebus</label>
+    <description>Ancient design. Deadly, but short range.</description>
+    <graphicData>
+      <texPath>PirateClashers/Esqubus</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Interact_Shotgun</soundInteract>
+    <statBases>
+      <MarketValue>200</MarketValue>
+      <AccuracyTouch>0.80</AccuracyTouch>
+      <AccuracyShort>0.87</AccuracyShort>
+      <AccuracyMedium>0.77</AccuracyMedium>
+      <AccuracyLong>0.64</AccuracyLong>
+      <RangedWeapon_Cooldown>0.70</RangedWeapon_Cooldown>
+      <Mass>1.5</Mass>
+    </statBases>
+    <verbs>
+      <li>
+        <verbClass>Verb_Shoot</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <defaultProjectile>Bullet_Esquebus</defaultProjectile>
+        <warmupTime>1.2</warmupTime>
+        <range>14</range>
+        <soundCast>Shot_Shotgun</soundCast>
+        <soundCastTail>GunTail_Heavy</soundCastTail>
+        <muzzleFlashScale>9</muzzleFlashScale>
+      </li>
+    </verbs>
+  </ThingDef>
+  <!-- =====================Arquebus========================= -->
+  <ThingDef ParentName="BaseBullet">
+    <defName>Bulletto_Arquebus</defName>
+    <label>arquebus slug</label>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>18</damageAmountBase>
+      <speed>70</speed>
+    </projectile>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_big</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  <ThingDef ParentName="BasePirateGun">
+    <defName>Gunnar_arquebus</defName>
+    <label>arquebus</label>
+    <description>Ancient matchlock-action rifle. Good range, Good power, low rate of fire.</description>
+    <graphicData>
+      <texPath>PirateClashers/Arquebus</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Interact_Rifle</soundInteract>
+    <statBases>
+      <MarketValue>400</MarketValue>
+      <AccuracyTouch>0.75</AccuracyTouch>
+      <AccuracyShort>0.96</AccuracyShort>
+      <AccuracyMedium>0.96</AccuracyMedium>
+      <AccuracyLong>0.90</AccuracyLong>
+      <RangedWeapon_Cooldown>0.66</RangedWeapon_Cooldown>
+      <Mass>1.5</Mass>
+    </statBases>
+    <verbs>
+      <li>
+        <verbClass>Verb_Shoot</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <defaultProjectile>Bulletto_Arquebus</defaultProjectile>
+        <warmupTime>1.5</warmupTime>
+        <range>37</range>
+        <soundCast>Shot_BoltActionRifle</soundCast>
+        <soundCastTail>GunTail_Heavy</soundCastTail>
+        <muzzleFlashScale>9</muzzleFlashScale>
+      </li>
+    </verbs>
+  </ThingDef>
+  <!-- ============================================== -->
+  <ThingDef ParentName="BaseBullet">
+    <defName>Bulletto_handycan</defName>
+    <label>handcannon slug</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>4</damageAmountBase>
+      <speed>70</speed>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BasePirateGun">
+    <defName>Gunnar_Handy</defName>
+    <label>handcannon</label>
+    <description>Handcannon. It fires a five-round burst. Mighty good range, low power.</description>
+    <graphicData>
+      <texPath>PirateClashers/Handcannon</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Interact_Rifle</soundInteract>
+    <statBases>
+      <MarketValue>300</MarketValue>
+      <AccuracyTouch>0.70</AccuracyTouch>
+      <AccuracyShort>0.87</AccuracyShort>
+      <AccuracyMedium>0.77</AccuracyMedium>
+      <AccuracyLong>0.64</AccuracyLong>
+      <RangedWeapon_Cooldown>0.66</RangedWeapon_Cooldown>
+      <Mass>1.5</Mass>
+    </statBases>
+    <verbs>
+      <li>
+        <verbClass>Verb_Shoot</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <defaultProjectile>Bulletto_handycan</defaultProjectile>
+        <warmupTime>1.2</warmupTime>
+        <range>32</range>
+        <burstShotCount>5</burstShotCount>
+        <ticksBetweenBurstShots>1</ticksBetweenBurstShots>
+        <soundCast>Shot_AssaultRifle</soundCast>
+        <soundCastTail>GunTail_Medium</soundCastTail>
+        <muzzleFlashScale>9</muzzleFlashScale>
+      </li>
+    </verbs>
+  </ThingDef>
+</Defs>

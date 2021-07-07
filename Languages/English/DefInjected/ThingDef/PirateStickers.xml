@@ -1,27 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <PirateSlasher_Rapier.label>rapier</PirateSlasher_Rapier.label>
   <PirateSlasher_Rapier.description>Pig sticker! Oink oink!</PirateSlasher_Rapier.description>
   <PirateSlasher_Rapier.tools.0.label>handle</PirateSlasher_Rapier.tools.0.label>
   <PirateSlasher_Rapier.tools.1.label>point</PirateSlasher_Rapier.tools.1.label>
-
   <PirateSlasher_Sabre.label>sabre</PirateSlasher_Sabre.label>
   <PirateSlasher_Sabre.description>Curved swords.. curved. swords.</PirateSlasher_Sabre.description>
   <PirateSlasher_Sabre.tools.0.label>handle</PirateSlasher_Sabre.tools.0.label>
   <PirateSlasher_Sabre.tools.1.label>point</PirateSlasher_Sabre.tools.1.label>
   <PirateSlasher_Sabre.tools.2.label>edge</PirateSlasher_Sabre.tools.2.label>
-
   <PirateSlasher_Cutlass.label>cutlass</PirateSlasher_Cutlass.label>
   <PirateSlasher_Cutlass.description>for cutting AND for carving! a multitool at it's best.</PirateSlasher_Cutlass.description>
   <PirateSlasher_Cutlass.tools.0.label>handle</PirateSlasher_Cutlass.tools.0.label>
   <PirateSlasher_Cutlass.tools.1.label>point</PirateSlasher_Cutlass.tools.1.label>
   <PirateSlasher_Cutlass.tools.2.label>edge</PirateSlasher_Cutlass.tools.2.label>
-
   <PirateSlasher_Dirkenstone.label>Dirk</PirateSlasher_Dirkenstone.label>
   <PirateSlasher_Dirkenstone.description>And you thought the sabre had curves.</PirateSlasher_Dirkenstone.description>
   <PirateSlasher_Dirkenstone.tools.0.label>handle</PirateSlasher_Dirkenstone.tools.0.label>
   <PirateSlasher_Dirkenstone.tools.1.label>point</PirateSlasher_Dirkenstone.tools.1.label>
-
-
 </LanguageData>

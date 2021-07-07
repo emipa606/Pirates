@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--================================ Concrete ======================================-->
+  <ThingDef ParentName="SculptureBase">
+    <defName>SculptureSeaShanty</defName>
+    <label>Sea Shanty</label>
+    <description>Popular pirate shanty.</description>
+    <graphicData>
+      <graphicClass>Graphic_Random</graphicClass>
+      <texPath>SeaShanty</texPath>
+    </graphicData>
+    <stuffCategories>
+      <li>Shantylike</li>
+    </stuffCategories>
+    <costStuffCount>1</costStuffCount>
+    <fillPercent>0.5</fillPercent>
+    <statBases>
+      <MaxHitPoints>90</MaxHitPoints>
+      <Beauty>5</Beauty>
+      <WorkToMake>10000</WorkToMake>
+      <Mass>0.5</Mass>
+    </statBases>
+  </ThingDef>
+</Defs>
