@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Pirates! (Continued)</name>
   <packageId>Mlie.Pirates</packageId>
@@ -11,35 +11,40 @@
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of Shinzys mod
 https://ludeon.com/forums/index.php?topic=7670.0
 
 - Adds nautical-inspired medieval pirate faction.
 - Has access to medieval gunpowderbased weapons
+- There is also a rework by Zaljerem [url= https://steamcommunity.com/sharedfiles/filedetails/?id=2599107582] Pirates! Gold[/url]
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
 	[tr]
 		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
 		[td][url=https://github.com/emipa606/Pirates][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
-	[/tr]
+    [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/6KqTKks.png[/img][/td]
+    [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 
-We&apos;re a band of vicious pirates, A sailin&apos; out to sea! 
-When you hear our gentle singin&apos; You&apos;ll sure to turn and flee!
+We're a band of vicious pirates, A sailin' out to sea! 
+When you hear our gentle singin' You'll sure to turn and flee!
 
 A Piiiiirate I was meant to beeee - Trim the sails and roam the seeea!
 
-Yarr harr! ready yerselves ye scurvy land lub.. non scurvy landlubbers! Davy jone&apos;s locker waits yeerrr*gakh* *gark* *wheeze*
+Yarr harr! ready yerselves ye scurvy land lub.. non scurvy landlubbers! Davy jone's locker waits yeerrr*gakh* *gark* *wheeze*
 ---
 The magnificent weapon textures by none other than SuperCaffeineDude!
 
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -50,4 +55,3 @@ The magnificent weapon textures by none other than SuperCaffeineDude!
 [/list]
 </description>
 </ModMetaData>
-
