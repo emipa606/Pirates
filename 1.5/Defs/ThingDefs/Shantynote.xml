@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ResourceBase">
+    <defName>SeaShantyNote</defName>
+    <label>lyrics ♪</label>
+    <description>It's a note with some lyrics scribbled on it. Used at sculpting table for Sea Shanty tablet</description>
+    <graphicData>
+      <texPath>ShantyNote</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <useHitPoints>true</useHitPoints>
+    <tradeability>Sellable</tradeability>
+    <statBases>
+      <MarketValue>2.0</MarketValue>
+      <MaxHitPoints>40</MaxHitPoints>
+      <Mass>0.3</Mass>
+    </statBases>
+    <thingCategories>
+      <li>Items</li>
+    </thingCategories>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <stuffProps>
+      <stuffAdjective>Piratey</stuffAdjective>
+      <categories>
+        <li>Shantylike</li>
+      </categories>
+      <constructEffect>ConstructMetal</constructEffect>
+      <color>(255,255,255)</color>
+      <soundImpactBullet>BulletImpact_Metal</soundImpactBullet>
+      <soundMeleeHitSharp>MeleeHit_Metal_Sharp</soundMeleeHitSharp>
+      <soundMeleeHitBlunt>MeleeHit_Metal_Blunt</soundMeleeHitBlunt>
+      <soundImpactMelee>Pawn_Melee_Punch_HitBuilding_Metal</soundImpactMelee>
+      <statFactors>
+        <MaxHitPoints>1</MaxHitPoints>
+        <Beauty>5</Beauty>
+        <Flammability>0.2</Flammability>
+      </statFactors>
+    </stuffProps>
+  </ThingDef>
+</Defs>
