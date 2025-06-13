@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: lyrics ♪ -->
+  <SeaShantyNote.label>lyrics ♪</SeaShantyNote.label>
+  <!-- EN: It's a note with some lyrics scribbled on it. Used at sculpting table for Sea Shanty tablet -->
+  <SeaShantyNote.description>It's a note with some lyrics scribbled on it. Used at sculpting table for Sea Shanty tablet</SeaShantyNote.description>
+  <!-- EN: Piratey -->
+  <SeaShantyNote.stuffProps.stuffAdjective>Piratey</SeaShantyNote.stuffProps.stuffAdjective>
+</LanguageData>

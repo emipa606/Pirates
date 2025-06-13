@@ -1,19 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <RulePackDef>
     <defName>NamerPersonPierats</defName>
     <rulePack>
       <rulesStrings>
-        <li>name-&gt;[guy][brush] [threep][wood]</li>
-        <li>name-&gt;[guy][brush] [piratesurname]</li>
-        <li>name-&gt;[piratename] [threep][wood]</li>
-        <li>name-&gt;[piratename] [piratesurname]</li>
-        <li>name-&gt;[piratename] [piratesurname]</li>
-        <li>name-&gt;[piratename] [piratesurname]</li>
-        <li>name-&gt;[piratename] [solonick] [piratesurname]</li>
-        <li>name-&gt;[piratename] [nickstart][nickend] [piratesurname]</li>
-        <li>name-&gt;[piratename] [nickstart][nickend] [piratesurname]</li>
-        <li>name-&gt;[piratename] [nickstart][nickend] [piratesurname]</li>
+        <li>name->[guy][brush] [threep][wood]</li>
+        <li>name->[guy][brush] [piratesurname]</li>
+        <li>name->[piratename] [threep][wood]</li>
+        <li>name->[piratename] [piratesurname]</li>
+        <li>name->[piratename] [piratesurname]</li>
+        <li>name->[piratename] [piratesurname]</li>
+        <li>name->[piratename] [solonick] [piratesurname]</li>
+        <li>name->[piratename] [nickstart][nickend] [piratesurname]</li>
+        <li>name->[piratename] [nickstart][nickend] [piratesurname]</li>
+        <li>name->[piratename] [nickstart][nickend] [piratesurname]</li>
       </rulesStrings>
       <rulesRaw>
         <li Class="Rule_File">

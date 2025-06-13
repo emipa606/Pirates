@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Outlander -->
+  <PirateDeckswab.label>Outlander</PirateDeckswab.label>
+  <PirateDeckswab.labelPlural />
+  <!-- EN: Duelist -->
+  <PirateDuelist.label>Duelist</PirateDuelist.label>
+  <PirateDuelist.labelPlural />
+  <!-- EN: Gunner -->
+  <PirateGunner.label>Gunner</PirateGunner.label>
+  <PirateGunner.labelPlural />
+  <!-- EN: Swashbuckler -->
+  <PirateSwashbuckler.label>Swashbuckler</PirateSwashbuckler.label>
+  <PirateSwashbuckler.labelPlural />
+  <!-- EN: Witchdoctor -->
+  <PirateVoodoo.label>Witchdoctor</PirateVoodoo.label>
+  <PirateVoodoo.labelPlural />
+  <!-- EN: Captain -->
+  <PirateYarhar.label>Captain</PirateYarhar.label>
+  <PirateYarhar.labelPlural />
+</LanguageData>

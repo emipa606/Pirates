@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Corsair -->
+  <PirateCrew.label>Corsair</PirateCrew.label>
+  <!-- EN: A baseline human, Hardened by the windy seas. Scurvy ridden specimen of base human, lots of Yarr. Bunch of untrustworthy cutthroats. -->
+  <PirateCrew.description>A baseline human, Hardened by the windy seas. Scurvy ridden specimen of base human, lots of Yarr. Bunch of untrustworthy cutthroats.</PirateCrew.description>
+  <!-- EN: Captain -->
+  <PirateCrew.leaderTitle>Captain</PirateCrew.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <PirateCrew.messageDefendersAttacking>{0} from {1} are attacking your {2}.</PirateCrew.messageDefendersAttacking>
+  <!-- EN: member -->
+  <PirateCrew.pawnSingular>member</PirateCrew.pawnSingular>
+  <!-- EN: scurvy seadogs -->
+  <PirateCrew.pawnsPlural>scurvy seadogs</PirateCrew.pawnsPlural>
+</LanguageData>

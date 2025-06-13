@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <RulePackDef>
     <defName>NamerShanty</defName>
     <rulePack>
       <rulesStrings>
-        <li>name-&gt;♫♪</li>
-        <li>name-&gt;♪♫</li>
+        <li>name->♫♪</li>
+        <li>name->♪♫</li>
       </rulesStrings>
     </rulePack>
   </RulePackDef>
